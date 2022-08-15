@@ -1,4 +1,4 @@
-# Kredi_Hesap
+# Kredi Hesabı 
 
 **Projenin Amacı** <br/>
 Kredi faiz hesabı yapmak
