@@ -1,4 +1,4 @@
-function krediHesapla()
+ function krediHesapla()
 {
     var anaPara,vadeSayisi;
     var aylikTaksit, odenecekTutar;
